@@ -1,1 +1,5 @@
-Este é um servidor node.js
+//Modificação B
+
+function subtracao() {
+  return n1 - n2;
+}
